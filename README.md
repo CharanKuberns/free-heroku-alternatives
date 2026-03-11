@@ -15,6 +15,7 @@ See also [free database services](https://github.com/DmitryScaletta/free-databas
 | fl0.com      | 24h  | No  | invite-only    | 256MB | 1GB?   | Yes  | 5GB           | Yes | Yes |
 | Koyeb.com    | 1h   | No  |                | 512MB | 2GB    | Yes  | 100GB         | Yes | Yes |
 | WispByte.com | 30d  | No  | no https       | 512MB | 1GB    | Yes  | ?             | No* | Yes |
+| Kuberns.com  | No   | No  | free trial     | 512MB | Persistent | Yes | Included   | Yes | Yes  |
 
 \* See information below
 
@@ -214,3 +215,17 @@ See also [free database services](https://github.com/DmitryScaletta/free-databas
 ]
 ```
 </details>
+
+Kuberns.com
+[Website](https://kuberns.com) | [Documentation](https://docs.kuberns.com)
+One-click deployment from GitHub repositories
+Agentic AI removes all the manual work
+Supports Docker and automatic buildpacks
+Runs applications on managed cloud infrastructure
+Developers do not need to manage Kubernetes clusters directly
+Automatic SSL, scaling, and deployment pipelines
+Suitable for APIs, backend services, and full stack applications
+Typical workflow:
+Connect your GitHub repository and Click Deploy
+Kuberns builds the application automatically
+The platform deploys the app with HTTPS enabled
